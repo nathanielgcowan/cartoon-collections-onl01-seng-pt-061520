@@ -6,7 +6,7 @@ end
 def summon_captain_planet(array)# code an argument here
   planeteer_calls =[]
   array.map do |calls|
-    c
+    planeteer_calls.push 
 end
 
 def long_planeteer_calls# code an argument here
